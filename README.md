@@ -3,7 +3,7 @@
 
 1. An Infectious Disease Outbreak Statistics Visualization System 
 
-(http://epidemic.co.kr/statistics)
+    (http://epidemic.co.kr/statistics)
   
   
     1) Development environment
