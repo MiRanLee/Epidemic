@@ -18,4 +18,26 @@
 
         DataBase : PostgreSQL 9.6
 
+    2) Source Code
+       
+       EpidemicCarrier.java 
+       : load infectious disease outbreak information (raw) data from CSV file (KCDC) and insert the data to DB
+       
+       ChartForm.java / ChartController.java 
+       : create query, select infectious disease outbreak information from DB and make charts with the data
+       
+       BJangController.java
+       : make charts (label..)
+       
+       statistics.jsp
+       : userinterface (searchform) 
+       :request JSON, show charts
+       
+       epidemic_Funtion.sql 
+       : query set (insert (select) infectious disease outbreak information to(from) DB)
+       
+       example_data.xls
+       : example data of KCDC(http://www.cdc.go.kr/npt/)
+       
+       
 
