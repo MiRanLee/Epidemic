@@ -31,13 +31,13 @@
        
        statistics.jsp
        : userinterface (searchform) 
-       :request JSON, show charts
+       : request JSON and show charts
        
        epidemic_Funtion.sql 
-       : query set (insert (select) infectious disease outbreak information to(from) DB)
+       : query set (insert(select) infectious disease outbreak information to(from) DB)
        
        example_data.xls
-       : example data of KCDC(http://www.cdc.go.kr/npt/)
+       : example data of KCDC (http://www.cdc.go.kr/npt/)
        
        
 
